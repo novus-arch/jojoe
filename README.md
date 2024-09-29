@@ -9,6 +9,7 @@ USER Input // Converts the Text to QR Readable Code
 
 READ THE INPUT // 
 
+bruh
 
 
 
