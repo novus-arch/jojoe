@@ -1,5 +1,5 @@
 # jojoe
-WE ARE BEIGENEIRNEIRS IN C CODE, TRY NAMIN GUMAWA NG KALOKOHAN (c language muna)
+C language
 
 (PSEUDOCODE)
 
